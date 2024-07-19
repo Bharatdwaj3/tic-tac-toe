@@ -1,0 +1,19 @@
+.square{
+    background-color: white;
+    border-color: rgb(100 116 139);
+    background-color: rgb(203 213 225);
+    height: 24rem;
+    width: 24rem;
+    border-width: 4px;
+ 
+
+
+}
+.square p{
+    text-align: center;
+        font-size: 20rem;
+        line-height: 15rem;
+        align-items: center;
+        justify-content: center;
+        color: rgb(0 0 0);
+}
